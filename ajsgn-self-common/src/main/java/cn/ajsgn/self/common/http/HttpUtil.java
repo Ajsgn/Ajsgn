@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package cn.ajsgn.common.util.http;
+package cn.ajsgn.self.common.http;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -32,7 +32,7 @@ import org.apache.commons.httpclient.methods.StringRequestEntity;
 import org.apache.commons.httpclient.params.HttpClientParams;
 import org.apache.commons.httpclient.protocol.Protocol;
 import org.apache.commons.lang3.StringUtils;
-import org.apache.http.annotation.ThreadSafe;
+import org.junit.runner.notification.RunListener.ThreadSafe;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
