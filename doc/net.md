@@ -6,6 +6,7 @@
     * [CSDN-袁明凯](https://blog.csdn.net/lifetragedy/article/list/1)
     * [Angel_Kitty](http://www.cnblogs.com/ECJTUACM-873284962/)
     * [施瓦茨 (Baron Schwartz)](https://www.xaprb.com/)
+    * [王克锋](https://kefeng.wang/)
 + 语言，框架
     * [JFinal](http://www.jfinal.com/)
     * [JFinal UIB](https://my.oschina.net/dongcb678)
